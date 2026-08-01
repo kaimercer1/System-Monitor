@@ -11,6 +11,7 @@ While making this project, I learnt:
 - How to use Python functions
 - How `while` loops work
 - How `if` statements work
+- How to create `dif` functions
 - How to import and use Python libraries
 - How to install packages using `pip`
 - How to use the `psutil` library to access system information
